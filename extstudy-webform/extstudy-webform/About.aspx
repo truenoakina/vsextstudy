@@ -3,7 +3,7 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1><%: Title %>.</h1>
-        <h2>你的应用程序说明页。</h2>
+        <h2>你的应用程序说明页2222。</h2>
     </hgroup>
 
     <article>
